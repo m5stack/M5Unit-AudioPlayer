@@ -1,0 +1,22 @@
+{
+    "name": "M5UnitAudioPlayer",
+    "description": "Library for M5Stack M5Unit AudioPlayer",
+    "keywords": "M5UnitAudioPlayer",
+    "authors": {
+        "name": "M5Stack",
+        "url": "http://www.m5stack.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/m5stack/M5Unit-AudioPlayer.git"
+    },
+    "version": "0.0.1",
+    "frameworks": [
+        "arduino"
+    ],
+    "platforms": [
+        "espressif32",
+        "native"
+    ]
+
+}
